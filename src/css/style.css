@@ -1,0 +1,25 @@
+body {
+  background: #eee;
+  text-align: center;
+}
+
+#board {
+	position: relative;
+	width: 205px;
+	height: 205px;
+  margin: auto;
+	background: url("../img/board.jpg") no-repeat;
+}
+
+td {
+  width: 50px;
+  height: 48px;
+  padding: 0;
+}
+
+.goblin {
+  width: 50px;
+  height: 48px;
+  background: url("../img/goblin.png") no-repeat;
+  background-size: contain;
+}
