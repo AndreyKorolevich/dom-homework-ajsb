@@ -23,3 +23,11 @@ td {
   background: url("../img/goblin.png") no-repeat;
   background-size: contain;
 }
+
+.points {
+  color: blue;
+}
+
+.miss {
+  color: red;
+}
