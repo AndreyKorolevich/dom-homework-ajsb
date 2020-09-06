@@ -1,0 +1,1 @@
+body{background:#eee;text-align:center}#board{position:relative;width:205px;height:205px;margin:auto;background:url(src/img/board.jpg) no-repeat}td{padding:0}.goblin,td{width:50px;height:48px}.goblin{background:url(src/img/goblin.png) no-repeat;background-size:contain}.points{color:#00f}.miss{color:red}
